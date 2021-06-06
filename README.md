@@ -8,11 +8,11 @@
 
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-<img align="left" alt=“Go” width="52px" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
-<img align="left" alt=“Echo” width="52px" src="https://cdn.labstack.com/images/echo-logo.svg" />
-<img align="left" alt=“Firebase” width="52px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt=“AWS” width="65px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
-<img align="left" alt=“Echo” width="52px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />
+<img align="left" alt=“Go” width="60px" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
+<img align="left" alt=“Echo” width="60px" src="https://cdn.labstack.com/images/echo-logo.svg" />
+<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt=“AWS” width="68px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
+<img align="left" alt=“Echo” width="36px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />
 <img align="left" alt=“Docker” width="56px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
 
 ### Contact me
