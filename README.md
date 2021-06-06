@@ -3,6 +3,7 @@
 - I am a flutter contributor. I’m interested in working with flutter,dart and also backend as go,firestore,parse server sdk,aws amplify,aws datastore,laravel.
 - 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on Flutter,Dart.
+- 🗿 I am one of the early adopters of Flutter, it has been more than 2 years.
 
 ### What I have used for Developing projects?
 
