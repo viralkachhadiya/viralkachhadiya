@@ -1,10 +1,6 @@
 # Viral Kachhadiya — Frontend-focused Software Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;+Flutter+React+Next.js;+Rust+JS+TS+Python+Backend;+Cloud+Delivery" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://github.com/viralkachhadiya" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-viralkachhadiya-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
@@ -12,7 +8,7 @@
 
 ## Summary
 
-Frontend-first software engineer building polished user experiences and reliable production systems. I focus on fast, accessible interfaces, strong engineering fundamentals, and full delivery from idea to deployment.
+Full-Stack-first software engineer building polished user experiences and reliable production systems. I focus on fast, accessible interfaces, strong engineering fundamentals, and full delivery from idea to deployment.
 
 ## Core Stack
 
