@@ -17,7 +17,7 @@ Frontend-first software engineer building polished user experiences and reliable
 ## Core Stack
 
 ### Frontend
-- Dart & Flutter
+- Dart & Flutter (Android, iOS)
 - React
 - Next.js
 - Tailwind CSS
@@ -32,8 +32,10 @@ Frontend-first software engineer building polished user experiences and reliable
 ### Languages
 - Dart
 - JavaScript / TypeScript
-- Python
 - Rust
+- Python
+- Java
+- C/C++
 
 ### DevOps and Cloud
 - GitHub Actions
