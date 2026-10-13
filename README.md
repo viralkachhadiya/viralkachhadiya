@@ -70,11 +70,3 @@ Frontend-first software engineer building polished user experiences and reliable
 ## Connect
 
 - GitHub: https://github.com/viralkachhadiya
-
----
-
-If you want, I can also make this profile even more premium with:
-- featured project cards
-- a better tagline and brand voice
-- LinkedIn/portfolio links
-- a cleaner “currently building” section
