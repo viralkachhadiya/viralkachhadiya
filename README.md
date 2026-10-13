@@ -1,7 +1,7 @@
 # Viral Kachhadiya — Frontend-focused Software Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+First;+Full-stack+thinking;+Production+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+Engineer;+Dart+%26+Flutter;+Rust+Backends;+Cloud+Delivery" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,57 +12,51 @@
 
 ## Summary
 
-I'm a frontend-first software engineer who builds polished user experiences and reliable production systems. I prioritize fast, accessible UIs and end-to-end delivery — from prototype to CI/CD and production infrastructure.
+Frontend-first software engineer building polished user experiences and reliable production systems. I focus on fast, accessible interfaces, strong engineering fundamentals, and full delivery from idea to deployment.
 
-## Languages & Rankings (as requested)
+## Core Stack
 
-1. Dart — primary frontend language (Rank 1)
-2. Backend — Rust web frameworks: Poem & Actix (Rank 2)
-3. Next.js (Framework) — server-side rendering & React ecosystem (Rank 3)
-4. Rust — systems & backend language (Rank 4)
+### Frontend
+- Dart & Flutter
+- React
+- Next.js
+- Tailwind CSS
+- HTML5
 
-> Notes: Flutter pairs with Dart as the principal frontend framework in my stack and is treated as Frontend (Rank 1 alongside Dart).
+### Backend
+- Rust with Poem and Actix
+- .NET / .NET Core
+- Node.js
+- NestJS
 
-## Frontend (Top Priority)
+### Languages
+- Dart
+- JavaScript / TypeScript
+- Python
+- Rust
 
-- Dart & Flutter — building cross-platform, performant UIs with a single codebase
-- Next.js — hybrid React framework for server-rendered, SEO-friendly web apps
-- Emphasis: polished UX, accessibility, performance, and developer DX
-
-## Backend (2nd Priority)
-
-- Rust frameworks: Poem & Actix — high-performance, memory-safe services
-- Design goals: low-latency APIs, safety, and predictable resource usage
-
-## Other Languages & Frameworks
-
-- Rust (systems programming and backend services)
-- JavaScript / TypeScript (where appropriate, esp. with Next.js)
-
-## DevOps & End-to-End Delivery
-
-I design and operate the full delivery pipeline for services and apps, including:
-
-- CI/CD: GitHub Actions (primary)
-- Containerization: Docker
-- Orchestration: Kubernetes (K8s)
-- Infrastructure as Code: Terraform
-- Cloud: AWS and GCP
-
-My focus is reliable, observable, and repeatable deployments with automated tests and progressive rollouts where appropriate.
+### DevOps and Cloud
+- GitHub Actions
+- Docker
+- Kubernetes
+- Terraform
+- AWS
+- GCP
 
 ## What I Build
 
-- Cross-platform frontend applications (Flutter + Dart)
-- High-performance backend services in Rust (Poem, Actix)
-- Server-rendered web apps and hybrid architectures with Next.js
-- Production-ready infrastructure with Docker, K8s, Terraform, and cloud providers
+- Cross-platform apps with Flutter
+- Modern web applications with React and Next.js
+- High-performance backend services in Rust, .NET, and Node.js/NestJS
+- Production-ready deployment pipelines and infrastructure automation
 
-## Professional Highlights
+## Professional Focus
 
-- Frontend-first mindset with strong backend and infra competency
-- Experience shipping end-to-end systems with CI/CD and cloud infra
-- Pragmatic approach: ship fast, measure, iterate, and harden for scale
+- Product-oriented frontend engineering
+- Clean architecture and maintainable code
+- Scalable backend systems and APIs
+- CI/CD workflows and cloud deployment
+- Performance and accessibility-first design
 
 ## GitHub Analytics
 
@@ -71,14 +65,14 @@ My focus is reliable, observable, and repeatable deployments with automated test
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viralkachhadiya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
 </p>
 
-## Contact & Links
+## Connect
 
 - GitHub: https://github.com/viralkachhadiya
 
 ---
 
-If you'd like, I can also:
-- Add pinned project suggestions and short project blurbs highlighting Flutter, Next.js, or Rust services
-- Add a professional LinkedIn or portfolio link if you provide it
-- Add example CI/CD badges or a sample GitHub Actions workflow to this repo
-
+If you want, I can also make this profile even more premium with:
+- featured project cards
+- a better tagline and brand voice
+- LinkedIn/portfolio links
+- a cleaner “currently building” section
