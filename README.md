@@ -1,7 +1,7 @@
 # Viral Kachhadiya — Frontend-focused Software Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+Engineer;+Dart+%26+Flutter;+Rust+Backends;+Cloud+Delivery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;+Flutter+React+Next.js;+Rust+JS+TS+Nodejs+Backends;+Cloud+Delivery" alt="Typing SVG" />
 </p>
 
 <p align="center">
