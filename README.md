@@ -1,4 +1,4 @@
-# Viral Kachhadiya — Frontend-focused Software Engineer
+# Viral Kachhadiya
 
 <p align="center">
   <a href="https://github.com/viralkachhadiya" target="_blank">
